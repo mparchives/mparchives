@@ -13,7 +13,7 @@ I am a passionate data professional inspired by business analytics and driven by
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,sqlite,r" /><br>
     <img src="https://skillicons.dev/icons?i=fastapi,html,css,js,php,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,gitlab,powershell	" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,gitlab,powershell" /><br>
   </a>
 </p>
 
