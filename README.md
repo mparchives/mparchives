@@ -2,11 +2,14 @@
 
 I am a passionate data professional inspired by business analytics and driven by Python and SQL. Analytics suggest I'm just the coolest nerd.
 
+![Michelle's Stats](https://github-readme-stats.vercel.app/api?username=mparchives&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 - I love using technology tools to make life easier and simpler, especially tools I've built myself
 - I’m looking for data analysis or similarly related job opportunities
 - Pronouns: She/Her
+
 
 ## Tech Stack
 <p align="center">
@@ -21,6 +24,7 @@ I am a passionate data professional inspired by business analytics and driven by
 ## 🌱 Currently Exploring
 - Working on projects that include many ideas inspired by my studies in the past few months
 - Pursuing more advanced certifications in data analysis and machine learning
+
 
 ## 🏆 Achievements
 - BA Information Management (Capstone Project: Sleep Improvement App)
